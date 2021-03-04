@@ -1,0 +1,82 @@
+body{
+	background-color: white;
+}
+.img{
+	width: 100%;
+	height: 300px;
+}
+#menu{
+	width: 100%
+	height: 50px;
+	background-color: #1885cb;
+	color: white;
+	font-family: fantasy;
+	font-size: 30px;
+	clear: both;
+	text-align: left;
+}
+.imgprin{
+	height: 300px;
+	width: 100%
+}
+#contenido{
+	width: 100%;
+	background-color: #002233;
+	color: white;
+}
+#encabezado{
+	width: 100%;
+	height: 100px;
+}
+.logo{
+    width: 20%;
+    height: 100px; 
+    background-color: #4eb8fb; float: left; 
+}
+.titulo{
+    width: 80%;
+    height: 100px; 
+    background-color: #4eb8fb; float: left;
+    color: white;
+	font-size: 60px;
+	text-align: center;
+	font-family: fantasy;
+}
+#pie{
+	width: 100%;
+	height: 75px;
+	background-color: #4eb8fb;
+	color: white;
+	clear: both;
+	font-size: 20px;
+    font-family: Arial;
+}
+.medio{
+	width: 100%;
+	height: 800px;
+	background-color: #b0bfc9;
+	color: white;
+	clear: both;
+	font-size: 28px;
+	font-family: fantasy;
+	text-align: justify;
+}
+.inferior{
+	width: 33.33%;
+	height: 300px;
+	background-color: #B0E0E6;
+	color: black;
+	float: left;
+}
+.img6{
+	width: 100%;
+	height: 300px;
+}
+.img7{
+	width: 100%;
+	height: 300px;
+}
+.img8{
+	width: 100%;
+	height: 300px;
+}
